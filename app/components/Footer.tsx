@@ -72,9 +72,9 @@ const Footer: NextPage<Props> = ({}) => {
           </a>
           <a
             className="m-1 font-medium text-slate-500 text-sm hover:text-orange-600"
-            href="mailto:radheykedar28@gmail"
+            href="mailto:ajay217k@gmail"
           >
-            radheykedar28@gmail.com
+            ajay217k@gmail.com
           </a>
         </div>
         <div className="flex flex-col items-start justify-end w-[80%] h-[100px] mt-5 text-black">
@@ -84,7 +84,6 @@ const Footer: NextPage<Props> = ({}) => {
         </div>
       </div>
       <div className="border-t-2 w-[60%] border-slate-300 text-center  pt-6">
-        <h1 className="text-slate-600 font-semibold text-sm">Copyright © 2022 Uifry.Com All Rights Reserved.</h1>
         </div>  
     </footer>
   );
